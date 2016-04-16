@@ -1,4 +1,8 @@
 <?php
 
-echo "My name is Mohsen Dehghani\n";
+$a = 2;
+
+if($a)
+	echo "Wellcome";
+
 ?>
